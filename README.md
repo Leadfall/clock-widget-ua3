@@ -5,8 +5,6 @@ https://leadfall.github.io/clock-widget-ua-simple/
 або версія Англійською:
 https://leadfall.github.io/clock-widget-ua-simple/?lang=en
 
-Переключення на 12-годинни формат через **?hour=12** до URL-адреси
-
 Є 4 готових формати, додавши **?format=** до URL-адреси.
 | Приклад | **?format=** | **URL** |
 | --- | --- | --- |
