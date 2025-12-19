@@ -53,6 +53,7 @@ const formatter = new Intl.DateTimeFormat(
   lang === "en" ? "en-US" : "uk-UA",
   {
     ...formats[format],
+    hour12: false,
     timeZone: timezone
   }
 );
