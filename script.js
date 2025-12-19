@@ -4,7 +4,7 @@
 const params = new URLSearchParams(window.location.search);
 
 const lang = params.get("lang") || "uk";
-const format = params.get("format") || "full";
+const format = params.get("format") || "medium";
 const showSeconds = params.get("seconds") !== "false";
 const timezone = params.get("timezone") || "Europe/Kyiv";
 
