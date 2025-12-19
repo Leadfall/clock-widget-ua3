@@ -22,6 +22,15 @@ const formats = {
     month: "long",
     year: "numeric"
   },
+  medium: {
+    hour: "2-digit",
+    minute: "numeric",
+    second: "2-digit",
+    weekday: "short",
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+  },
   full: {
     weekday: "long",
     day: "2-digit",
@@ -29,15 +38,6 @@ const formats = {
     year: "numeric",
     hour: "2-digit",
     minute: "2-digit",
-    second: "2-digit"
-  },
-  check: {
-    weekday: "short",
-    day: "2-digit",
-    month: "short",
-    year: "numeric",
-    hour: "2-digit",
-    minute: "numeric",
     second: "2-digit"
   }
 };
