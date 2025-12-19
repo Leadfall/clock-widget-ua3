@@ -20,7 +20,6 @@ const formats = {
     hour12: hour12
   },
   date: {
-    weekday: "long",
     day: "2-digit",
     month: "long",
     year: "numeric"
