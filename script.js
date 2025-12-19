@@ -3,7 +3,7 @@
 // ==========================
 const params = new URLSearchParams(window.location.search);
 
-const lang = params.get("lang") || "uk"; // uk за замовчуванням
+const lang = params.get("lang") || "uk";
 const format = params.get("format") || "full";
 const showSeconds = params.get("seconds") !== "false";
 const timezone = params.get("timezone") || "Europe/Kyiv";
@@ -33,7 +33,6 @@ const formats = {
   }
 };
 
-// якщо секунди вимкнені — прибираємо їх
 if (!showSeconds && formats.full.second) {
   delete formats.full.second;
 }
