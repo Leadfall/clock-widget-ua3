@@ -1,5 +1,4 @@
 Віджет годинника Українською *(спрощений)*
-
 https://leadfall.github.io/clock-widget-ua-simple/
 
 або версія Англійською:
@@ -12,3 +11,7 @@ https://leadfall.github.io/clock-widget-ua-simple/?lang=en
 | пʼятниця, 19 грудня 2025 р. | date | [**Натисніть тут**](https://leadfall.github.io/clock-widget-ua-simple/?format=date) |
 | пт, 19 груд. 2025 р., 6:49:36 пп | medium | [**Натисніть тут**](https://leadfall.github.io/clock-widget-ua-simple/?format=medium&hour=12) |
 | пʼятниця, 19 грудня 2025 р. о 18:49:36 | full | [**Натисніть тут**](https://leadfall.github.io/clock-widget-ua-simple/?format=full) |
+<br/>
+
+>Стара версія цього віджета *(але з гнучкою кастомізацією)*:<br/>
+>https://github.com/Leadfall/clock-widget-ua
