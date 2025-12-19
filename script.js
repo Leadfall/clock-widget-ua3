@@ -21,7 +21,7 @@ const formats = {
   },
   date: {
     day: "2-digit",
-    month: "long",
+    month: "2-digit",
     year: "numeric"
   },
   medium: {
