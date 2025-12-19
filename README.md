@@ -8,7 +8,7 @@ https://leadfall.github.io/clock-widget-ua-simple/?lang=en
 | Приклад | **?format=** | **URL** |
 | --- | --- | --- |
 | 18:49 | time | [**Посилання**](https://leadfall.github.io/clock-widget-ua-simple/?format=time) |
-| пʼятниця, 19 грудня 2025 р. | date | [**Посилання**](https://leadfall.github.io/clock-widget-ua-simple/?format=date) |
+| 19 грудня 2025 р. | date | [**Посилання**](https://leadfall.github.io/clock-widget-ua-simple/?format=date) |
 | пт, 19 груд. 2025 р., 6:49:36 пп | medium | [**Посилання**](https://leadfall.github.io/clock-widget-ua-simple/?format=medium&hour=12) |
 | пʼятниця, 19 грудня 2025 р. о 18:49:36 | full | [**Посилання**](https://leadfall.github.io/clock-widget-ua-simple/?format=full) |
 <br/>
